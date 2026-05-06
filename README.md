@@ -25,9 +25,3 @@ SP2：
 
 MEDIATEK系列。
 
-# 目录简要说明：
-
-workflows——自定义CI配置
-
-#
-[![Stargazers over time](https://starchart.cc/liangcanming/uboot-Yuzhii0718.svg?variant=adaptive)](https://starchart.cc/liangcanming/uboot-Yuzhii0718)
