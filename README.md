@@ -2,7 +2,7 @@
 
 源码：
 
-https://github.com/Yuzhii0718/bl-mt798x-dhcpd.git
+https://github.com/liangcanming/bl-mt798x-dhcp.git
 
 # 特别说明
 
@@ -30,4 +30,4 @@ MEDIATEK系列。
 workflows——自定义CI配置
 
 #
-[![Stargazers over time](https://starchart.cc/VIKINGYFY/UBOOT-CI.svg?variant=adaptive)](https://starchart.cc/VIKINGYFY/UBOOT-CI)
+[![Stargazers over time](https://starchart.cc/liangcanming/uboot-Yuzhii0718.svg?variant=adaptive)](https://starchart.cc/liangcanming/uboot-Yuzhii0718)
